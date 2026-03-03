@@ -1,3 +1,4 @@
+#doing multistages
 pipeline {
   agent none
   stages {
